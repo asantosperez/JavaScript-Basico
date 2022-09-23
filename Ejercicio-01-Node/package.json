@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio-01-node",
+  "version": "1.0.0",
+  "description": "Ejercicio 01 Primer proyecto Node de Alberto Santos Pérez",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asantosperez/JavaScript-Basico.git"
+  },
+  "keywords": [
+    "javascript",
+    "basic"
+  ],
+  "author": "Alberto Santos Pérez @asantosperez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asantosperez/JavaScript-Basico/issues"
+  },
+  "homepage": "https://github.com/asantosperez/JavaScript-Basico#readme"
+}
